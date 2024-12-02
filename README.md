@@ -1,4 +1,4 @@
 # cuiyujie.github.io
 personal website
 
-https://cuiyujie.github.io/
+https://yukiacui.github.io/cuiyujie.github.io/
